@@ -16,6 +16,11 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference. -->
 # ProductVault – Flutter Accordion Collections UI
 
+## 📦 APK Download
+You can download and install the Android APK from the link below:
+
+🔽 **[Download APK](https://drive.google.com/file/d/1JGNWACMSWVrOXHCZ3_4QelEMlwE7PK_i/view?usp=sharing)**
+
 ## 📱 Overview
 ProductVault is a Flutter UI project demonstrating an accordion-style
 product collections screen. Each collection can be expanded or collapsed
@@ -38,5 +43,5 @@ to reveal product images with smooth animations.
 ```bash
 flutter pub get
 flutter run
-# Product-Vault
-# Product-Vault
+
+# Product Vault
